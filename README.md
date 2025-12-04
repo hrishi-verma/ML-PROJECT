@@ -42,7 +42,7 @@ python3 improved_ml_pipeline.py
 The script generates 6 CSV files:
 
 1. `submission.csv` - Best individual model (automatically selected)
-2. `submission_ensemble.csv` - Ensemble predictions (recommended)
+2. `submission_ensemble.csv` - Ensemble predictions (recommended)----- main
 3. `submission_logistic_regression.csv` - Logistic Regression predictions
 4. `submission_random_forest.csv` - Random Forest predictions
 5. `submission_svm.csv` - SVM predictions
